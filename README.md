@@ -7,6 +7,10 @@ this project is developed in react.js to perform action on strings and implement
 ## Video
 
 
+
+https://user-images.githubusercontent.com/77239125/182825536-68eaea47-a774-4fac-862d-3876f36b18fb.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
