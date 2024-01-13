@@ -4,6 +4,10 @@
 ## Objective
 this project is developed in react.js to perform action on strings and implementation of dark mode and light mode
 
+## technology used
+React.js
+
+
 ## Video
 
 
